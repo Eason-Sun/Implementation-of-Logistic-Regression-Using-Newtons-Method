@@ -1,7 +1,7 @@
 # Implementation-of-Logistic-Regression-Using-Newtons-Method
 
 ## Objective:
-This project implements the logistic regression optimized by Newton's Method from scratch (without using any existing machine learning libraries e.g. sklearn) for predicting 2D surface sampled data.   
+This project implements the logistic regression optimized by Newton's Method from scratch (without using any existing machine learning libraries e.g. sklearn) for optical recognition of handwritten digits dataset. 
 
 The hyperparameter lambda (the weight of penalty) is fine-tuned using 10-Fold Cross Validataion which is also implemented from scratch.
 
